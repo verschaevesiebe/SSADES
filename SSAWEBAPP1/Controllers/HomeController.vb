@@ -16,4 +16,11 @@
 
         Return View()
     End Function
+
+
+    Function CDN() As ActionResult
+        ViewData("Message") = "Your cdn page."
+
+        Return View()
+    End Function
 End Class

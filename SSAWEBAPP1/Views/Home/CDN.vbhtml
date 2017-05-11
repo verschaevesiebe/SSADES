@@ -26,7 +26,7 @@ End Code
 
 <section class="cdnclass">
 
-    <article><h1>Server loaded file</h1><img src="~/images/" /></article>
+    <article><h1>Server loaded file</h1><img src="~/images/eiffel_tower_vertical.jpg" /></article>
 
     <article><h1>CDN loaded file</h1><img src="" /></article>
 
